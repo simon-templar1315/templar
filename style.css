@@ -7,10 +7,75 @@
     color: rgb(21, 139, 175);
     text-transform: uppercase;
     text-align: center;
-    text-decoration: underlin;
+    text-decoration: underline;
 }
 
 #hippopotamus{
     text-decoration: underline;
 }
 
+
+#snake{
+    text-decoration: underline;
+}
+
+
+
+#ani{
+    text-align: center;
+    text-decoration: underline;
+    color: cadetblue;
+    text-transform: uppercase;
+}
+
+
+
+#cat{
+    text-decoration: underline;
+}
+
+
+
+#dog{
+    text-decoration: underline;
+}
+
+
+
+#hor{
+    text-decoration: underline;
+}
+
+
+
+
+#farm{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: chocolate;
+}
+
+
+#duck{
+    text-decoration: underline;
+}
+
+
+#chi{
+    text-decoration: underline;
+}
+
+
+
+#she{
+    text-decoration: underline;
+}
+
+
+
+
+#foot{
+    text-decoration: overline;
+    color: brown;
+}
